@@ -1,0 +1,4 @@
+No curso de Git e GitHub foi apresentado a  importância dessas tecnologias, seus principais comandos, como também os comandos básicos.
+Também aprendemos como criar chave ssh e token
+assim como, criamos um repositório e um commit, aprendemos também sobre o ciclo de vida dos arquivos no Git.
+link para download do Git: https://git-scm.com/
